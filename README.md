@@ -15,15 +15,15 @@ coin1 coin2 ... coinN
 Minimum number of coins or -1
 
 ## Examples
-Input:
-3 11
-1 2 5
-Output:
+Input:  
+3 11  
+1 2 5  
+Output:  
 3
 
-Input:
-2 3
-2 4
-Output:
+Input:  
+2 3  
+2 4  
+Output:  
 -1
 
