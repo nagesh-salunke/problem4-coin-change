@@ -3,7 +3,7 @@
 Given N coin denominations and a target amount X, find the minimum number of coins required to make X. Print -1 if it is impossible.
 
 ## Input
-N X
+N X  
 coin1 coin2 ... coinN
 
 ## Constraints
